@@ -4,8 +4,8 @@ An example application case of OpenCL demonstrating the use of GPU for parallel 
 
 # Timings
 
-| Local Dimensions | First Execution | Second Execution | Third Execution | Fourth Execution | Average  |
-| ---------------- | --------------- | ---------------- | --------------- | ---------------- | -------- |
+| Local Dimensions | First Execution | Second Execution | Third Execution | Fourth Execution |  Average  |
+| ---------------- | --------------- | ---------------- | --------------- | ---------------- | --------- |
 | 32x1             | 0.332 sec       | 0.158 sec        | 0.403 sec       | 0.153 sec        | 0.261 sec |
 | 1x32             | 0.371 sec       | 0.250 sec        | 0.197 sec       | 0.157 sec        | 0.243 sec |
 | 8x4              | 0.229 sec       | 0.154 sec        | 0.150 sec       | 0.145 sec        | 0.169 sec |
