@@ -2,7 +2,7 @@
 
 An example application case of OpenCL demonstrating the use of GPU for parallel programming.
 
-# Timings
+## Timings
 
 | Local Dimensions | First Execution | Second Execution | Third Execution | Fourth Execution |  Average  |
 | ---------------- | --------------- | ---------------- | --------------- | ---------------- | --------- |
